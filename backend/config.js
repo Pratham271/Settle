@@ -1,5 +1,5 @@
 
-const JWT_SECRET="Bhot_Mushkil_Hai_Bhai_Isse_Guess_Krna_Gand_Fat_Jayegi_Aur_Andi_Mandi_Sandi_Agar_Tune_Guess_Krilya_Toh_Use_Nhi_Krega"
+const JWT_SECRET=""
 
 module.exports = JWT_SECRET
     
